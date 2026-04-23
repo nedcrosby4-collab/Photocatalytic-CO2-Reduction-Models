@@ -1,0 +1,11 @@
+{
+  "target_product": "CH3OH",
+  "target_yield": 139.0,
+  "final_product": "CH3OH",
+  "final_confidence": 99.92914199829102,
+  "final_yield": 137.33591409214355,
+  "yield_gap_pct": 1.197184106371544,
+  "active": "Cu0.12Ag0.30In0.38Zn1.22S2",
+  "support": "C9OH2",
+  "cocatalyst": "C3N4"
+}

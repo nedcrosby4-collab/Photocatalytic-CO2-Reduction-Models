@@ -1,0 +1,11 @@
+{
+  "catalyst": "ZnFe2O4/TiO2",
+  "source": "Iqbal et al. 2020",
+  "major_product": "CH3OH",
+  "major_confidence": 63.0,
+  "major_rate": 4.553875014075037,
+  "actual_rate": 138.94,
+  "minor_product": "NA",
+  "minor_confidence": 94.66666666666667,
+  "minor_rate": 0.0
+}

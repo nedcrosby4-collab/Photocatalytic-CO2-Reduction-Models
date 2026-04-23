@@ -1,0 +1,10 @@
+{
+  "Major_clf_accuracy": 0.21428571428571427,
+  "Major_clf_n_valid": 14,
+  "Major_reg_MAE": 49.29625011622906,
+  "Major_reg_n_valid": 8,
+  "Minor_clf_accuracy": 0.2857142857142857,
+  "Minor_clf_n_valid": 14,
+  "Minor_reg_MAE": 13.760955585225423,
+  "Minor_reg_n_valid": 9
+}
