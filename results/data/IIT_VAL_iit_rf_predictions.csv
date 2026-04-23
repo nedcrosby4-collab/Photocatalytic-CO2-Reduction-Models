@@ -1,0 +1,15 @@
+Entry,Active,Support,Actual_Mj_Product,Pred_Mj_Product,Mj_Conf_pct,Mj_Match,Actual_Mj_Rate,Pred_Mj_Rate,Actual_Mi_Product,Pred_Mi_Product,Mi_Conf_pct,Mi_Match,Actual_Mi_Rate,Pred_Mi_Rate
+1,TiO2,NA,CH4,CH3OH,29.0,False,,5.51,CO,CH4,30.7,False,,7.18
+2,TiO2,Ti,CH4,CO,70.9,False,,50.66,CO,CH4,31.7,False,,14.38
+3,TiO2,Ti,CH4,CO,70.9,False,,50.66,CO,CH4,31.7,False,0.06,14.38
+4,TiO2,NA,CO,CH3OH,27.0,False,0.15,3.25,CH4,CH4,34.0,True,0.06,12.28
+5,TiO2,NA,CO,CH3OH,43.0,False,0.45,7.02,CH4,CH4,32.0,True,0.1389,2.01
+6,TiO2,NA,CO,CH3OH,43.0,False,0.7,7.02,CH4,CH4,32.0,True,0.1625,2.01
+7,TiO2,SiO2,CO,CH3OH,58.7,False,,4.41,CH4,NA,51.7,False,,0.76
+8,TiO2,Ti,H2,CO,74.0,False,,13.18,CO,CH4,32.7,False,,1.77
+9,TiO2,C9OH2,CH4,CH3OH,87.0,False,,23.32,CO,NA,72.0,False,,0.47
+10,TiO2,SiO2,CO,CH3OH,40.0,False,261.5,11.2,CH4,NA,36.3,False,74.1,0.04
+11,TiO2,SiO2,CO,CH3OH,40.0,False,88.4,11.2,CH4,NA,36.3,False,15.3,0.04
+12,TiO2,SiO2,CO,CH3OH,40.0,False,24.45,11.2,CH4,NA,36.3,False,4.7,0.04
+13,TiO2,SiO2,CO,CH3OH,40.0,False,17.77,11.2,CH4,NA,36.3,False,6.4,0.04
+14,TiO2,SiO2,CO,CH3OH,40.0,False,15.4,11.2,CH4,NA,36.3,False,3.3,0.04

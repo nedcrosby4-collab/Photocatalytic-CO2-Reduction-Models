@@ -1,0 +1,5 @@
+Model,Target,Clf_Acc,Clf_N,Avg_Conf,Reg_R2_log,Reg_MAE_umol,Reg_N
+NN,Major,0.429,14,93.0%,0.2462,45.88,8
+NN,Minor,0.214,14,58.9%,0.5273,9.53,9
+RF,Major,0.000,14,50.2%,0.2467,45.94,8
+RF,Minor,0.214,14,37.9%,-1.8258,14.87,9

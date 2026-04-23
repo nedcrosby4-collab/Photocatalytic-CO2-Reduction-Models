@@ -1,0 +1,5 @@
+Metric,NN,Iqbal et al.
+Predicted Product,CH4,CH3OH
+Class Probability (%),66.9,--
+Predicted Rate (umol/g*h),4.00,138.94
+Ratio to Experiment,0.029,1.000

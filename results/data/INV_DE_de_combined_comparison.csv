@@ -1,0 +1,5 @@
+Experiment,Product (Confidence),Yield (umol/g*h),Yield Gap,Active,Support,Cocatalyst,Temperature (C),Pressure (atm),Light Type
+DE+RF (U),CH3OH (79.3%),105.96,-23.8%,ZnV2O6,CeO2,NiOH,237,1.7,Solar
+DE+RF (C),CH3OH (54.0%),122.21,-12.1%,C3N4,Fe3O4,CuC44H28N4,19,6.6,UVA
+DE+NN (U),CH3OH (97.7%),144.40,+3.9%,Fe3O4,C3N4,Ag,469,8.5,UV
+DE+NN (C),CH3OH (100.0%),128.78,-7.4%,InTaO4,C9OH2,CuC44H28N4,97,2.3,Visible

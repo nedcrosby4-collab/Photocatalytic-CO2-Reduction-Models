@@ -1,0 +1,5 @@
+Stage,Grouping,R2,RMSE,MAE,Accuracy,F1
+Cross-Validation,Ungrouped,0.719 ± 0.110,0.374 ± 0.087,0.209 ± 0.029,0.916 ± 0.040,0.913 ± 0.045
+Held-Out Test,Ungrouped,0.843,0.293,0.176,0.956,0.955
+Cross-Validation,Grouped,0.497 ± 0.193,0.451 ± 0.058,0.353 ± 0.057,0.826 ± 0.066,0.807 ± 0.082
+Held-Out Test,Grouped,0.383,0.665,0.452,0.908,0.903

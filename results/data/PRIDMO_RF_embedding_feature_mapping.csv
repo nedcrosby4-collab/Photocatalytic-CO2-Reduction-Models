@@ -1,0 +1,65 @@
+emb_dim,mapped_feature,top_sensitivity
+emb_0,period_std,0.00745573453605175
+emb_1,en_pauling_mean,0.07382939010858536
+emb_2,avg_cbm,0.03477665036916733
+emb_3,Reaction_Volume,0.10913486778736115
+emb_4,atomic_weight_std,0.03488127887248993
+emb_5,Pore Volume_cm^3/g,0.04862934723496437
+emb_6,magp_valence_std,0.09159896522760391
+emb_7,Reaction_Volume_2,0.07985541969537735
+emb_8,Average Pore Size_nm,0.059777770191431046
+emb_9,Active_wt%,0.023338498547673225
+emb_10,Light_intensity_mW/cm^2,0.012472604401409626
+emb_11,magp_unfilled_d_std,0.07138317823410034
+emb_12,avg_energy_above_hull,0.07888203859329224
+emb_13,Support_wt%,0.09257045388221741
+emb_14,magp_electron_affinity_mean,0.14739136397838593
+emb_15,Pore Volume_cm^3/g_2,0.013896537013351917
+emb_16,Pore Volume_cm^3/g_3,0.10180766880512238
+emb_17,avg_band_gap,0.008762409910559654
+emb_18,Pore Volume_cm^3/g_4,0.11520106345415115
+emb_19,Reaction_Volume_3,0.08184614032506943
+emb_20,Sacrificial_agent_percent,0.04323448985815048
+emb_21,magp_valence_d_mean,0.03752110153436661
+emb_22,atomic_number_std,0.12309891730546951
+emb_23,Reaction_temp,0.08551465719938278
+emb_24,Average Pore Size_nm_2,0.03995516151189804
+emb_25,en_pauling_mean_2,0.007821527309715748
+emb_26,avg_formation_energy_per_atom,0.015681695193052292
+emb_27,magp_unfilled_d_mean,0.08926518261432648
+emb_28,magp_valence_f_std,0.061184242367744446
+emb_29,avg_weighted_work_function,0.17720073461532593
+emb_30,covalent_radius_pyykko_mean,0.12303367257118225
+emb_31,magp_unfilled_d_std_2,0.13258370757102966
+emb_32,CatperVol_mgpermL,0.048344291746616364
+emb_33,Pore Volume_cm^3/g_5,0.12029101699590683
+emb_34,magp_valence_f_mean,0.0748991072177887
+emb_35,atomic_number_std_2,0.07660026848316193
+emb_36,dipole_polarizability_std,0.10226304084062576
+emb_37,atomic_number_mean,0.04507715255022049
+emb_38,magp_valence_s_mean,0.12389623373746872
+emb_39,Pore Volume_cm^3/g_6,0.20722390711307526
+emb_40,density_std,0.1551644206047058
+emb_41,avg_energy_above_hull_2,0.09063296020030975
+emb_42,Reaction_pres_atm,0.04996421933174133
+emb_43,period_std_2,0.019613277167081833
+emb_44,Support_wt%_2,0.12560901045799255
+emb_45,Active_is_gap_direct,0.028495896607637405
+emb_46,atomic_weight_std_2,0.04944489523768425
+emb_47,magp_electronegativity_std,0.14173175394535065
+emb_48,Reaction_temp_2,0.11443175375461578
+emb_49,Reaction_pres_atm_2,0.0017026400892063975
+emb_50,Reaction_temp_3,0.040030337870121
+emb_51,avg_density,0.043425869196653366
+emb_52,vdw_radius_std,0.08644073456525803
+emb_53,density_mean,0.029417777433991432
+emb_54,Active_is_gap_direct_2,0.024999156594276428
+emb_55,vdw_radius_std_2,0.07162487506866455
+emb_56,atomic_weight_std_3,0.011037863790988922
+emb_57,avg_band_gap_2,0.13350233435630798
+emb_58,Average Pore Size_nm_3,0.05082060024142265
+emb_59,magp_unfilled_d_mean_2,0.06765703856945038
+emb_60,Reaction_temp_4,0.24250614643096924
+emb_61,Reaction_temp_5,0.1308632642030716
+emb_62,magp_valence_p_std,0.11518331617116928
+emb_63,avg_weighted_work_function_2,0.13461214303970337
